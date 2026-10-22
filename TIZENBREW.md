@@ -4,8 +4,8 @@ This public fork adds only the metadata required to load the upstream
 [`yumata/lampa`](https://github.com/yumata/lampa) web application in
 TizenBrew. The application files are otherwise unchanged.
 
-No third-party plugins, provider repositories, media sources, API keys, or
-credentials are bundled.
+The TizenBrew wrapper does not enable third-party plugins, provider
+repositories, or media sources, and it adds no API keys or credentials.
 
 ## Install
 

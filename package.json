@@ -2,7 +2,7 @@
   "name": "lampa-tizenbrew",
   "version": "3.3.8",
   "appName": "Lampa",
-  "description": "Base Lampa media catalogue packaged as a TizenBrew module. No third-party plugins or media sources are bundled.",
+  "description": "Base Lampa media catalogue packaged as a TizenBrew module. The wrapper does not enable third-party plugins or media sources.",
   "license": "GPL-2.0",
   "homepage": "https://github.com/yumata/lampa",
   "repository": {
