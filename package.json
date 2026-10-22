@@ -1,0 +1,22 @@
+{
+  "name": "lampa-tizenbrew",
+  "version": "3.3.8",
+  "appName": "Lampa",
+  "description": "Base Lampa media catalogue packaged as a TizenBrew module. No third-party plugins or media sources are bundled.",
+  "license": "GPL-2.0",
+  "homepage": "https://github.com/yumata/lampa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/efudes/lampa-tizenbrew.git"
+  },
+  "packageType": "app",
+  "appPath": "index.html",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind"
+  ]
+}
